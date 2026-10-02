@@ -136,6 +136,46 @@ I enjoy taking an idea from **problem definition → data → model → applicat
 
 ---
 
+## ☁️ Microsoft Azure: Projects, Services & Certifications
+
+I am actively building my cloud knowledge with **Microsoft Azure** and connecting cloud concepts to my AI and software-engineering projects. My current focus is on understanding how AI applications move from local development to secure, scalable, and monitorable cloud deployments.
+
+### Azure Services I Am Exploring
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+- **Azure fundamentals:** resource groups, subscriptions, regions, identity concepts, and cloud service models
+- **Azure AI direction:** exploring how machine-learning and generative-AI applications can be integrated with Azure services
+- **Application hosting:** learning deployment patterns for Python APIs, Streamlit applications, and full-stack services
+- **Storage and data:** understanding cloud storage, application data, secrets, and environment-based configuration
+- **DevOps and delivery:** exploring CI/CD workflows, GitHub integration, monitoring, and reliable deployment practices
+
+### Azure Project Track
+
+| Project / Area | Azure Learning Objective | Status |
+| --- | --- | --- |
+| **AI Application Deployment** | Prepare a Python AI or Streamlit application for cloud hosting and environment configuration | In progress |
+| **Computer Vision API** | Explore how a computer-vision model can be exposed through a secure backend API | Planned |
+| **AI Assistant Backend** | Study API deployment, secrets management, logging, and scalable request handling | Planned |
+| **Model Serving Workflow** | Learn the path from trained model to reproducible inference service | Learning |
+| **GitHub-to-Azure Delivery** | Connect source control with automated build and deployment workflows | Learning |
+
+> Public Azure project links will be added here as soon as the deployments are available. I prefer documenting only projects that are publicly verifiable.
+
+### Azure Certifications
+
+- **Microsoft Azure learning path:** currently building practical Azure knowledge through hands-on study and application deployment practice
+- **Azure certification goal:** preparing to document an official Microsoft credential when completed
+
+> **Certification note:** I have not added a specific Azure certification name or credential ID because the exact certificate details were not provided yet. Share the certificate title and verification link, and this section can be updated with an accurate credential entry.
+
+---
+
 ## 📜 Certifications & Professional Learning
 
 - **Google Certified** — verified learning and certification experience
